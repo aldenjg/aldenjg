@@ -1,4 +1,6 @@
-<img src="https://count.getloli.com/@alden?name=alden&theme=3d-num&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="alden" />
+<div align="center">
+  <img src="https://count.getloli.com/@alden?name=alden&theme=3d-num&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="alden" />
+</div>
 
 <!--
 ## Hi there 👋
