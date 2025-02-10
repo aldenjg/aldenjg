@@ -1,4 +1,4 @@
-[<img src="https://count.getloli.com/@:name" alt=":name" />](https://count.getloli.com/@alden?name=alden&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+<img src="https://count.getloli.com/@alden" alt="alden" />
 
 ## Hi there 👋
 
