@@ -1,4 +1,4 @@
-https://count.getloli.com/@:name
+<img src="https://count.getloli.com/@:name" alt=":name" />
 
 ## Hi there 👋
 
