@@ -1,3 +1,5 @@
+https://count.getloli.com/@first?name=first&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+
 ## Hi there 👋
 
 <!--
